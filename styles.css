@@ -1,0 +1,14 @@
+body {
+	background: #202020;
+	font-family: 'Courier New';
+	font-size: 25px;
+	color: #5AFF00;
+}
+
+canvas {
+    display: block;
+}
+
+#canvasJet, #canvasEnemy, #canvasHUD {
+    margin: -500px 0 0;
+}
